@@ -7,3 +7,6 @@
 [submodule "Triangle_Exercise"]
 	path = Triangle_Exercise
 	url = https://github.com/PraveenMathew92/Triangle_Exercise
+[submodule "PrimeFactorsExercise"]
+	path = PrimeFactorsExercise
+	url = https://github.com/PraveenMathew92/PrimeFactorsExercise
