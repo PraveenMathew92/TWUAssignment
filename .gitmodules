@@ -1,0 +1,9 @@
+[submodule "FizzBuzz"]
+	path = FizzBuzz
+	url = https://github.com/PraveenMathew92/FizzBuzz
+[submodule "Diamond_Exercise"]
+	path = Diamond_Exercise
+	url = https://github.com/PraveenMathew92/Diamond_Exercise
+[submodule "Triangle_Exercise"]
+	path = Triangle_Exercise
+	url = https://github.com/PraveenMathew92/Triangle_Exercise
